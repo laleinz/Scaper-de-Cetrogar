@@ -5,3 +5,5 @@ Características:
 - Extrae datos de categorías.
 - Almacena los resultados en un archivo CSV/JSON para su posterior análisis.
 - Útil para seguimiento de precios y disponibilidad.
+
+Link de la pagina: https://www.cetrogar.com.ar/
